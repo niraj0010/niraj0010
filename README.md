@@ -1,6 +1,4 @@
-### H! I am Niraj 👋
-
-#- 🌱 I’m currently learning .NET, JavaScript, React.
-#-💻 I'm interested in Software Development.
-#- 📫 How to reach me: neerazbhatta1@gmail.com
-
+👋 Hi! I’m Niraj
+👀 I’m interested in Software Development
+🌱 I’m currently learning .Net, JavaScript, MERN stack
+📫 How to reach me neerazbhatta1@gmail.com
