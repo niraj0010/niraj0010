@@ -21,6 +21,10 @@
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
+### Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj0010&layout=compact)](https://github.com/niraj0010)
+
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
