@@ -6,7 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=niraj0010" alt="niraj0010" />
   </a> 
 </p>
-🌱 I’m currently learning .NET, React, JavaScript
+🌱 I’m currently learning JavaScript, Vite + React, asp.NET 
 
 👯 I’m looking to collaborate on programming projects
 
