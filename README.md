@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=niraj0010">
-    <img src="https://github-profile-trophy.vercel.app/?username=niraj0010" alt="niraj0010" />
+  <a href="https://github-profile-trophy.vercel.app/?username=niraj0010&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7">
+    <img src="https://github-profile-trophy.vercel.app/?username=niraj0010&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="niraj0010" />
   </a>
 </p>
 
