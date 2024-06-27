@@ -91,7 +91,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=635&lines=Thanks+for+your+visit!;Let's+create+something+amazing+together+!" alt="Thanks for your visit!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=635&lines=Thanks+you!;Be+Consistent+!" alt="Thanks for your visit!" />
 </div>
 
 <div align="right">
