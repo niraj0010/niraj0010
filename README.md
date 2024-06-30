@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **JavaScript, Vite + React, ASP.NET**
+- 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **programming projects**
 - 📫 How to reach me: **neerazbhatta1@gmail.com**
 - ⚡ Fun fact: **I love to travel.**
