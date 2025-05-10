@@ -11,10 +11,13 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **programming projects**
-- 📫 How to reach me: **neerazbhatta1@gmail.com**
-- ⚡ Fun fact: **I love to travel.**
+🌱 Passionate about learning and growing every day in the world of technology
+
+🤝 Always eager to collaborate on creative coding projects and impactful solutions
+
+📫 Reach out: neerazbhatta1@gmail.com
+
+⚡ Fun fact: I find joy in both debugging code and discovering new places — tech and travel fuel my curiosity!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
