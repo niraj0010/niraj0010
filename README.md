@@ -1,116 +1,103 @@
-<h1 align="center">Hi 👋, I'm Niraj Bhatta</h1>
-<h3 align="center">A Computer Science Student Interested in Full Stack Development</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niraj0010&label=Profile%20views&color=0e75b6&style=flat" alt="niraj0010" />
-</p>
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=niraj0010&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7">
-    <img src="https://github-profile-trophy.vercel.app/?username=niraj0010&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="niraj0010" />
-  </a>
-</p>
-
-🌱 Passionate about learning and growing every day in the world of technology
-
-🤝 Always eager to collaborate on creative coding projects and impactful solutions
-
-📫 Reach out: neerazbhatta1@gmail.com
-
-⚡ Fun fact: I find joy in both debugging code and discovering new places — tech and travel fuel my curiosity!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/niraj-bhatta-484622251/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niraj Bhatta LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-</p>
-
-<h3 align="left">Top Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj0010&layout=compact" alt="niraj0010" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niraj0010&show_icons=true&locale=en" alt="niraj0010" /></p>
-
-<h3 align="left">Streak Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj0010" alt="niraj0010's streak stats" />
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=635&lines=Thank+you!;Be+Consistent+!" alt="Thanks for your visit!" />
+
+  <h1 align="center">Hi 👋, I'm Niraj Bhatta</h1>
+  <h3 align="center">🚀 Full Stack Developer | AI & Machine Learning Enthusiast</h3>
+  
+  <p align="center">
+    <i>Bridging the gap between robust web architecture and intelligent algorithms.</i>
+  </p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Integrating+AI+Models;Exploring+Data+Science;Always+Learning" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/niraj-bhatta-484622251/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:neerazbhatta1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+
 </div>
 
-<div align="right">
-  <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0e75b6&style=for-the-badge" alt="back to top" />
-  </a>
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **integrating LLMs into web applications.**
+- 🌱 I’m currently learning **Deep Learning architectures and MLOps.**
+- 👯 I’m looking to collaborate on **Open Source AI projects.**
+- ⚡ Fun fact: **I find joy in both debugging code and discovering new places!**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**🤖 AI & Data Science**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+**💻 Frontend Development**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+**⚙️ Backend & Database**
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**🔧 Tools & Platform**
+<br>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=niraj0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Niraj's GitHub Stats" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj0010&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Niraj's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj0010&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=niraj0010&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </div>
