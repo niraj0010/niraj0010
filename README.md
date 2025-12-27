@@ -77,19 +77,19 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=niraj0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Niraj's GitHub Stats" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj0010&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Niraj's Top Languages" />
-      </td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=niraj0010&show_icons=true&theme=tokyonight&hide_border=true" alt="Niraj's GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj0010&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Niraj's Top Languages" /></td>
     </tr>
   </table>
+  
+  <br />
+  
+  <img src="https://streak-stats.demolab.com?user=niraj0010&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
