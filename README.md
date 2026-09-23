@@ -15,7 +15,7 @@ Outside of day-to-day work, I keep up with new developments in tech and enjoy ex
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=niraj0010&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub trophies based on commits, pull requests, repositories, and other public activity." />
+  <a href="https://gh-stats.com">
+    <img src="https://gh-stats.com/api/niraj0010" alt="GitHub activity, contribution history, and overall grade." />
   </a>
 </p>
