@@ -15,7 +15,7 @@ Outside of day-to-day work, I keep up with new developments in tech and enjoy ex
 ## GitHub activity
 
 <p align="center">
-  <a href="https://gh-stats.com">
-    <img src="https://gh-stats.com/api/niraj0010" alt="GitHub activity, contribution history, and overall grade." />
+  <a href="https://ghstats.dev">
+    <img src="https://ghstats.dev/api/card?username=niraj0010&amp;show_icons=true" alt="GitHub activity and overall grade." />
   </a>
 </p>
