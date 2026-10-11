@@ -4,7 +4,7 @@
 
 # Hi, I'm Niraj
 
-I'm a software engineer and Computer Science graduate from Southeastern Louisiana University.
+I'm a software engineer and Computer Science graduate with Mathematics minor.
 
 I work across full-stack development, backend systems, and data applications. My work includes internal business tools, data pipelines, and projects involving machine learning. I enjoy bringing different technologies together to make business processes and operations work better.
 
